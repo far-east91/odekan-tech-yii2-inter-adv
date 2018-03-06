@@ -1,4 +1,4 @@
-Yii Framework Training by Odekan-Tech
+Yii 2 Framework Training by Odekan-Tech
 =====================================
 We will not follow this guide in ascending order manner. In this training/coaching, we will focus on develop internal system as specified by the client.
 
